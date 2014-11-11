@@ -11,7 +11,7 @@ categories: de p compass-ch
 	<div class="container-hero container-hero-1 clearfix" style="background-image: url('/images/unsplash_523183833041b_1.jpg');background-repeat: no-repeat;background-size: 1500px 1000px;background-color: rgba(0, 0, 0, 0.0);height: 700px;background-position: 50% 30%;">
 		<div class="container-hero-content container-hero-content-1 clearfix">
 			<div class="container-4 clearfix" style="margin-bottom:-40px;margin-top:30px;width: 960px;height: 46px;border-bottom: 1px solid rgb(255, 255, 255);">
-				<button class="text text-5" style="text-align:left;color: #fff;" onClick="window.location='/fr';" >Compass Group (Schweiz) AG</button>
+				<button class="text text-5" style="text-align:left;color: #fff;" onClick="window.location='/';" >Compass Group (Schweiz) AG</button>
 				{% for menu in site.categories["compass-ch"] %}
 				{% if menu.lang == page.lang %}
 				<button class="_button" style="float:right;margin-left:20px;margin-top:8px;font-size:0.95em;color: #fff;" onClick="window.location='{{menu.url}}';">{{menu.title}}</button>
