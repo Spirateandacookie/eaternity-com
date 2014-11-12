@@ -11,16 +11,17 @@ categories:
 
 
 <div style="background-color: #000;">
-	<div class="container-hero container-hero-1 clearfix" style="height: 650px;background-image: url('/images/intheoffice.jpg');background-repeat: no-repeat;background-size: 1440px 900px;background-position: center top;">
+	<div class="container-hero container-hero-1 clearfix" style="height: 650px;background-image: url('/images/intheoffice.jpg');background-repeat: no-repeat;background-size: cover;background-position: center center;">
 		<div class="container-hero-content container-hero-content-1 clearfix">
-			<div class="container-4 clearfix" style="margin-bottom:-40px;margin-top:30px;width: 960px;height: 46px;border-bottom: 1px solid rgb(0, 0, 0);">
+			<!-- <div class="container-4 clearfix" style="margin-bottom:-40px;margin-top:30px;width: 960px;height: 46px;border-bottom: 1px solid rgb(0, 0, 0);">
 				<button class="text text-5" style="text-align:left;color:#000" onClick="window.location='/about';" >Technology</button>
 				{% for menu in site.categories["technology"] %}
 				{% if menu.lang == page.lang %}
 				<button class="_button" style="float:right;margin-left:20px;margin-top:8px;font-size:0.95em;color:#000" onClick="window.location='{{menu.url}}';">{{menu.title}}</button>
 				{% endif %}{% endfor %}
-			</div>
-			<div style="line-height: 1.38;clear: both;width: 796px;margin: 250px 0 0 82px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 3.2em;text-align: center;float: left; color: #000">Hello, gastronomy intelligence.<br>Goodbye, gastronomy management.</div>
+			</div> -->
+			<div style="line-height: 1.38;clear: both;width: 960px;margin: 400px 0 0 0px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 4em;text-align: center;float: left; color: #fff">Hello, gastronomy intelligence.</div>
+			<div style="line-height: 1.38;clear: both;width: 960px;margin: 0px 0 0 0px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 2.6em;text-align: center;float: left; color: #fff">Goodbye, gastronomy management.</div>
 		</div>
 
 	</div>
@@ -38,7 +39,7 @@ categories:
 		<div class="row" style="height:100px">
 			<div class="col-md-1"></div>
 			<div class="col-md-10">
-				<p>"Die Ziele und innovative Lösungen von Eaternity sind das Beispiel für die Wirtschaft der Zukunft. Sie verbinden Wirtschaftswachstum mit einer Reduktion unseres Ressourcenverbrauch.”<br> — Bastien Girod Wissenschaftler und Mitglied des Schweizer Nationalrat.</p>
+		
 			</div>
 			<div class="col-md-1"></div>
 			
