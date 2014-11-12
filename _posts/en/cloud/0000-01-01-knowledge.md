@@ -6,74 +6,16 @@ title:  "Knowledge"
 categories: cloud
 ---
 
-<div class="container-hero container-hero-1 clearfix">
-	<div class="container-hero-content container-hero-content-1 clearfix">
-		<div class="container container-4 clearfix">
-			<p class="text text-5" onClick="window.location='/cloud';" >Eaternity Cloud</p>
-			{% for menu in site.categories["cloud"] reversed %}
-			 <button class="_button" style="float:right;margin-left:20px;margin-top:8px;font-size:0.95em" onClick="window.location='{{menu.url}}';">{{menu.title}}</button>
-		    {% endfor %}
 
+
+<div style="background: -webkit-linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(245, 245, 245) 100%) rgb(222, 222, 222);">
+	<div class="container">
+		<div class="row" style="height:100px">
+			<div class="col-md-1"></div>
+			<div class="col-md-10">
+				<p>"Die Ziele und innovative Lösungen von Eaternity sind das Beispiel für die Wirtschaft der Zukunft. Sie verbinden Wirtschaftswachstum mit einer Reduktion unseres Ressourcenverbrauch.”<br> — Bastien Girod Wissenschaftler und Mitglied des Schweizer Nationalrat.</p>
+			</div>
+			<div class="col-md-1"></div>
 		</div>
-		<img class="image image-1" src="/images/nur-logo-klein-480x299-3.png" data-rimage data-src="/images/nur-logo-klein-480x299-3.png" data-srcat2x="/images/nur-logo-klein-480x299-3@2x.png">
-		<img class="image image-2" src="/images/cloud-negativ-248x231-1.png" data-rimage data-src="/images/cloud-negativ-248x231-1.png" data-srcat2x="/images/cloud-negativ-248x231-1@2x.png">
-		<div class="hero-title hero-title-1">Eaternity Cloud</div>
-		<div class="hero-subtitle hero-subtitle-1">A restaurant solution that makes a difference.</div>
-		<button class="_button _button-79">We are developing a cloud application for restaurants, on a mission to scale impact. It revolutionizes the way we work in a kitchen, by giving you smart insights into your supply chain to benefit people, planet and profit.<br></button>
 	</div>
-</div>
-
-<div class="element element-5"></div>
-<div class="content-design content-design-1 clearfix">
-	<p class="text text-16">Designed for humans.</p>
-	<p class="text text-21">As simple as a raspberry. Pick it. Eat it.</p>
-	<div class="text text-25">
-	<p>With the Eaternity Cloud, we develop a gastronomy solution with the user in mind. To do that we put great focus on &nbsp;the essential processes in a kitchen - to relax your work load. Recipe research, menu planning and budget calculation - everything as easy as it should be. And we build great new capabilites into the background processes or organizing the informations. The result is an experience to enjoy. It fits the needs of running your restaurant business tightly and lets you focus on delivering the best experiences for your guests. Learn more »</p>
-	<p>Take a peek at the new design »</p>
-</div>
-<div class="element element-8"></div>
-</div>
-<div class="content-technology content-technology-1 clearfix">
-<p class="text text-35">Powerful behind the scenes.</p>
-<p class="text text-42">Map the supply chain. Fight redundancy.</p>
-<div class="text text-46">
-	<p>There are many ingredients in a dish. We have made it possible to map them without manual efforts. The individual informations of each ingredient can be directly used for the design of the meals and for display and declaration. We automatically asses costs, margins, <strong>carbon emissions</strong>, <strong>allergenes</strong>, nutrients, vitamines and minerals. Existing data on recipes and supplies can be imported and automatically converted.&nbsp;</p>
-	<p>Find out more about the Technology »</p>
-</div>
-<div class="element element-13"></div>
-</div>
-<div class="content-awards content-awards-1 clearfix">
-<p class="text text-59">Motivate smart moves.</p>
-<p class="text text-67">Build in communication. Real feedback.</p>
-<div class="text text-74">
-	<p>Eaternity Award - Monthly Reports. Setting, Measuring and reaching targets. User and Peer-to-Peer Cook Feedback. Supply Chain Forecasts&nbsp;</p>
-	<p>Feedback on the popularity from guests and other chefs is collected and aggregated to give meaningful suggestion to improve even more.</p>
-	<p>Find our more how you can reach out »</p>
-</div>
-<div class="element"></div>
-</div>
-<div class="follow-up-footer follow-up-footer-2 clearfix">
-<div class="container container-49"></div>
-<div class="element-about-eaternity element-about-eaternity-2 clearfix">
-	<p class="text text-94">Great Design</p>
-	<p class="text text-102">Simplicity making a difference.</p>
-</div>
-<div class="element-co2footprint element-co2footprint-1 clearfix">
-	<p class="text text-115">Knowing it better</p>
-	<p class="text text-126">Tap into the collective wisdom.</p>
-</div>
-<div class="element-allergens element-allergens-1 clearfix">
-	<p class="text text-139">Get Awarded</p>
-	<p class="text text-144">Be first. Be known as first.</p>
-	<div class="element element-30"></div>
-</div>
-<div class="container container-70 clearfix">
-	<div class="element-about-eaternity element-about-eaternity-10 clearfix">
-		<p class="text text-168">Get Cooking</p>
-		<p class="text text-184">Partner up with Eaternity.</p>
-	</div>
-	<div class="element-about-eaternity element-about-eaternity-15 clearfix">
-		<p class="text text-200">References</p>
-		<p class="text text-212">See how we create shared value together with our clients.</p>
-	</div>
-</div>
+</div>	

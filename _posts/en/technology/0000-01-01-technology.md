@@ -2,47 +2,53 @@
 layout: page
 name: technology
 type: post
-title:  "Eaternity - Eaternity Cloud"
+title:  "Eaternity - Technology"
 categories: 
 ---
-<div class="container-hero container-hero-3 clearfix">
-	<div class="container-hero-content container-hero-content-3 clearfix">
-		<div class="container container-7 clearfix">
-			<p class="text text-8">Technology</p>
-			<button class="_button _button-61">Mapping Engine</button>
-			<button class="_button _button-66">CO2-Calculator</button>
-			<button class="_button _button-71">Health Indicator</button>
+
+
+
+
+
+<div style="background-color: #000;">
+	<div class="container-hero container-hero-1 clearfix" style="height: 650px;background-image: url('/images/intheoffice.jpg');background-repeat: no-repeat;background-size: 1440px 900px;background-position: center top;">
+		<div class="container-hero-content container-hero-content-1 clearfix">
+			<div class="container-4 clearfix" style="margin-bottom:-40px;margin-top:30px;width: 960px;height: 46px;border-bottom: 1px solid rgb(0, 0, 0);">
+				<button class="text text-5" style="text-align:left;color:#000" onClick="window.location='/about';" >Technology</button>
+				{% for menu in site.categories["technology"] %}
+				{% if menu.lang == page.lang %}
+				<button class="_button" style="float:right;margin-left:20px;margin-top:8px;font-size:0.95em;color:#000" onClick="window.location='{{menu.url}}';">{{menu.title}}</button>
+				{% endif %}{% endfor %}
+			</div>
+			<div style="line-height: 1.38;clear: both;width: 796px;margin: 250px 0 0 82px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 3.2em;text-align: center;float: left; color: #000">Hello, gastronomy intelligence.<br>Goodbye, gastronomy management.</div>
 		</div>
-		<p class="hero-title hero-title-4">Hello, gastronomy intelligence.</p>
-		<p class="hero-subtitle hero-subtitle-3">Goodbye, gastronomy management.</p>
-		<button class="_button _button-82">Modern technology allows us to go far deeper. It provides us precendent insights into the supply chain and business processes. It helps to put convinience first on your user experience, by eliminating redundant processes in data management. Our unique solution for calculating carbon emissions and indicating the healh of meals leaps anything done before in the food industry.<br></button>
+
 	</div>
+</div>	
+
+
+<div class="hero clearfix" style="height: 449px;">
+	<p class="text text-72">Modern technology allows us to go far deeper. It provides us precendent insights into the supply chain and business processes. It helps to put convinience first on your user experience, by eliminating redundant processes in data management. Our unique solution for calculating carbon emissions and indicating the healh of meals leaps anything done before in the food industry.</p>
 </div>
-<div class="content-design content-design-2 clearfix">
-	<p class="text text-17">Introducing the Mapping Engine</p>
-	<p class="text text-22">Large data. Processed quickly.</p>
-	<div class="text text-27">
-		<p>To make data insights possible our software runs a procedure to match ten thousands of articles, as they are handled manually in a restaurant, to a central storage. This, for example, allows us to conviently play back nutrition and allergene information as required by the European law by December 2014.</p>
-		<p>Learn more about the Mapping Engine »</p>
+
+
+
+<div style="background: -webkit-linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(245, 245, 245) 100%) rgb(222, 222, 222);">
+	<div class="container">
+		<div class="row" style="height:100px">
+			<div class="col-md-1"></div>
+			<div class="col-md-10">
+				<p>"Die Ziele und innovative Lösungen von Eaternity sind das Beispiel für die Wirtschaft der Zukunft. Sie verbinden Wirtschaftswachstum mit einer Reduktion unseres Ressourcenverbrauch.”<br> — Bastien Girod Wissenschaftler und Mitglied des Schweizer Nationalrat.</p>
+			</div>
+			<div class="col-md-1"></div>
+			
+		</div>
 	</div>
-	<div class="element element-9"></div>
-</div>
-<div class="content-technology content-technology-2 clearfix">
-	<p class="text text-36">Know the Footprint of Food.</p>
-	<p class="text text-43">Dynamic CO2 calculation done right.</p>
-	<p class="text text-47">We have assembled the largest database of scientific publication on the environmental impact of food. We are able to display, dependent on the individual ingredient, on its season and its way of transportation, the total footprint of a meal as it goes over the counter - on that exact day.</p>
-	<div class="element element-14"></div>
-</div>
-<div class="content-awards content-awards-2 clearfix">
-	<p class="text text-60">Health Indication.</p>
-	<p class="text text-68">Make the perfect meal even better.</p>
-	<div class="text text-75">
-		<p>Knowing about ingredients, proteins, calories, fats, minerals and vitamines is just the beginning. It does so much matters, what we do with all the informations. Going beyond just declaring allergene and daily recommendation units, we are able to indicate with a green plate label specifics about your personal needs, across the week, while giving the restautant's cook the right information, to make your perfect meal even better.</p>
-		<p>Find out about the Health Indicator »</p>
-	</div>
-	<div class="element"></div>
-</div>
-<div class="follow-up-footer follow-up-footer-3 clearfix">
+</div>	
+
+
+
+<!--<div class="follow-up-footer follow-up-footer-3 clearfix">
 	<div class="container container-51"></div>
 	<div class="element-about-eaternity element-about-eaternity-3 clearfix">
 		<p class="text text-95">Great Design</p>
@@ -67,4 +73,4 @@ categories:
 			<p class="text text-214">See how we create shared value together with our clients.</p>
 		</div>
 	</div>
-</div>
+</div> -->
