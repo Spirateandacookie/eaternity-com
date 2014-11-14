@@ -28,7 +28,7 @@ published: true
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
 		<a href="/de/p/compass-ch">Project page in German</a>
 		<p>-</p>
-		<a href="/de/p/compass-ch">Project page in French</a>
+		<a href="/fr/p/compass-ch">Project page in French</a>
 	</div>
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>

@@ -49,7 +49,7 @@ categories:
 			
 			<div class="container-20 clearfix">
 				<p class="text text-26">City of Zurich serves Menu Plus</p>
-		        <p>“The most important criterion to continue with Menu Plus was, apart from its potential climate impact, the positive feedback of the restaurant guests and the restaurant employees. We now have saved 18 tons” Beat von Felten, Umweltschutzfachstelle Stadt Zürich</p>
+		        <!-- <p>“The most important criterion to continue with Menu Plus was, apart from its potential climate impact, the positive feedback of the restaurant guests and the restaurant employees. We now have saved 18 tons” Beat von Felten, Umweltschutzfachstelle Stadt Zürich</p> -->
 <p>Truly pioneering. Since 2011 the municipality of Zurich serves Menu Plus in all their employee restaurants giving them the choice to eat climate-friendly on a daily basis. This was implemented after a successful 11 week pilot project alongside a “good for me, good for our climate” campaign bringing the restaurant guests one step closer to reach the “2000-watt-society”.</p>
 		        <a target="_blank" href="https://www.stadt-zuerich.ch/menu-plus">Read more here: www.stadt-zuerich.ch/menu-plus</a>
 			</div>
@@ -74,7 +74,7 @@ categories:
 
 			<div class="container-29 clearfix">
 				<p class="text text-52">Restaurant Coalmine</p>
-		        <p>“We reduced 20% of our carbon emissions, keeping a tight budget and without our guests even noticing.” Natalie, restaurant owner</p>
+		        <!-- <p>“We reduced 20% of our carbon emissions, keeping a tight budget and without our guests even noticing.” Natalie, restaurant owner</p> -->
 		        <p>Restaurant Coalmine is a small bistro in Winterthur. With limited resources and a regular customer base Colamine’s restaurant owner initially thought there was limited scope for researching and introducing sustainable food choices. But with Eaternity Cloud they recipes were analyzed quickly. By adjusting some ingredients and replacing two meals on the existing menu carbon emissions were immediately reduced by 20%. Climate-friendly meals are now highlighted on Coalmine’s menu card.</p>
 				<a target="_blank" href="http://winterthurer-zeitung.ch/stadt/detail/article/mit-gutem-gewissen-essen-0013090/">Read more here: www.winterthurer-zeitung.ch</a>
 			</div>
