@@ -16,7 +16,7 @@ categories: fr p
 				{% endif %}{% endfor %}
 
 		</div>
-		<img class="image" src="/images/banner-compass-fr-1073x759.png" data-rimage data-src="/images/banner-compass-fr-1073x759.png" data-srcat2x="/images/banner-compass(2)-1073x759@2x.png">
+		<img class="image" src="/images/banner-compass-fr.png" data-rimage data-src="/images/banner-compass-fr.png" data-srcat2x="/images/banner-compass-fr@2x.png">
 	</div>
 </div>
 
