@@ -32,7 +32,7 @@ categories: fr p compass-ch
 		<div class="col-md-2"></div>
 		<div class="col-md-6">
 		  
-			<h2>“Il n’y a rien à y faire?” ou “nous ne pouvons rien y faire?”?</h2>
+			<h2>“Pouvons nous changer quelque chose?”</h2>
 			
 	       
 			<div class="row">
