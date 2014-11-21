@@ -28,6 +28,7 @@ categories: de p
 		<p>Nach einer Pilotphase in der Mensa der ZHAW Winterthur will die Compass Group (Schweiz) AG das CO2-Management standardmässig in allen ihren Restaurants einführen und so den CO2-Ausstoss bis 2020 um rund 20 Prozent senken.</p>
 		<p><a target="_blank" href="/assets/de/2014-05-26 Pressemitteilung-Eaternity-Compass.pdf">Pressemitteilungen Eaternity</a><br></p>
 		<p><a target="_blank" href="http://welcome.compass-group.ch/index.php?id=918&L=0%2B%2B%2F%2F%2B%3F%2F%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=750&cHash=5831b92957f370ea42c09c54fc6a647c">Pressemitteilungen Compass Group (Schweiz) AG (26. Mai 2014)</a><br></p>
+		<p><a target="_blank" href="/assets/de/14_11_14_Compass-Eaternity_II_Roll_out_MM_.pdf">Pressemitteilungen Compass Group (Schweiz) AG (14. November 2014)</a><br></p>
 	</div>
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>
