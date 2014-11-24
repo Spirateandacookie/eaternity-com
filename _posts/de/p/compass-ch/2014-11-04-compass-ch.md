@@ -6,7 +6,7 @@ title:  "Eaternity - Compass Group (Schweiz) AG"
 categories: de p
 ---
 
-<div class="container-hero container-hero-1 clearfix" style="background-image: url('/images/Webseite_Element-1(4).jpg');background-position: left center;">
+<div class="container-hero container-hero-1 clearfix" style="background-image: url('/images/Webseite_Element-1(4).jpg');background-position: left center;background-size: 100%">
 	<div class="container-hero-content container-hero-content-1 clearfix">
 		<div class="container-4 clearfix" style="margin-bottom:-40px;margin-top:30px;width: 960px;height: 46px;border-bottom: 1px solid rgb(0, 0, 0);">
 			<button class="text text-5" style="text-align:left" onClick="window.location='/de/p/compass-ch';" >Compass Group (Schweiz) AG</button>
@@ -25,7 +25,7 @@ categories: de p
 	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">mit durchwegs klimafreundlichen Menu.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
 		<p>Die Compass Group (Schweiz) AG unternimmt schon seit Jahren grosse Anstrengungen zur Förderung einer gesunden und umweltfreundlichen Ernährung. «Der Markt verlangt verstärkt Lösungen zum Thema Nachhaltigkeit. Wir von der Compass Group wollen unsere Kunden dabei unterstützen. Der CO2-Rechner der Firma Eaternity bietet uns nun eine einmalige Chance, um auf diesem Weg ein entscheidendes Stück voranzukommen», sagt Hans Boesch, CEO.</p>
-		<p>Nach einer Pilotphase in der Mensa der ZHAW Winterthur will die Compass Group (Schweiz) AG das CO2-Management standardmässig in allen ihren Restaurants einführen und so den CO2-Ausstoss bis 2020 um rund 20 Prozent senken.</p>
+		<p>Die Compass Group (Schweiz) AG führt das CO2-Management soeben in ihren Restaurants ein und will so den CO2-Ausstoss bis 2020 um 20 Prozent senken.</p>
 		<p><a target="_blank" href="/assets/de/2014-05-26 Pressemitteilung-Eaternity-Compass.pdf">Pressemitteilungen Eaternity</a><br></p>
 		<p><a target="_blank" href="http://welcome.compass-group.ch/index.php?id=918&L=0%2B%2B%2F%2F%2B%3F%2F%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=750&cHash=5831b92957f370ea42c09c54fc6a647c">Pressemitteilungen Compass Group (Schweiz) AG (26. Mai 2014)</a><br></p>
 		<p><a target="_blank" href="/assets/de/14_11_14_Compass-Eaternity_II_Roll_out_MM_.pdf">Pressemitteilungen Compass Group (Schweiz) AG (14. November 2014)</a><br></p>
@@ -33,4 +33,3 @@ categories: de p
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>
 </div>
-

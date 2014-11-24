@@ -7,7 +7,7 @@ categories: p
 published: true
 ---
 
-<div class="container-hero container-hero-1 clearfix" style="background-image: url('/images/Webseite_Element-1(4).jpg');background-size: 500px 229px;background-position: left center;">
+<div class="container-hero container-hero-1 clearfix" style="background-image: url('/images/Webseite_Element-1(4).jpg');background-size: 500px 229px;background-position: left center;;background-size: 100%">
 	<div class="container-hero-content container-hero-content-1 clearfix">
 		<div class="container-4 clearfix" style="margin-bottom:-40px;margin-top:30px;width: 960px;height: 46px;border-bottom: 1px solid rgb(0, 0, 0);">
 			<button class="text text-5" style="text-align:left" onClick="window.location='/de';" >Compass Group (Switzerland)</button>
@@ -33,4 +33,3 @@ published: true
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>
 </div>
-
