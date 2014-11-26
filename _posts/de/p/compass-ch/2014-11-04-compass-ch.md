@@ -31,7 +31,7 @@ categories: de p
 		<p><a href="http://welcome.compass-group.ch/index.php?id=918&L=0%20%20%2F%20…%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=761&cHash=69501ab0ad2fc953969c93648ff69baa">Pressemitteilungen Compass Group (Schweiz) AG (14. November 2014)</a><br></p>
 	</div>
 
-	<h2 style="text-align:center; width:100%;margin-top: 67px;">11 teilnehmende Restaurants:</h2>
+	<h2 style="text-align:center; width:100%;margin-top: 67px;">Bereits 11 teilnehmende Restaurants:</h2>
 	{% include references.html %}
 
 
