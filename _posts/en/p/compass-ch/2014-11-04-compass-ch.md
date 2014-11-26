@@ -17,19 +17,23 @@ published: true
 				{% endif %}{% endfor %}
 
 		</div>
-		<img class="image" src="/images/banner-compass(2)-1073x759.png" data-rimage data-src="/images/banner-compass(2)-1073x759.png" data-srcat2x="/images/banner-compass(2)-1073x759@2x.png">
+		<img class="image" src="/images/banner-compass-en.png" data-rimage data-src="/images/banner-compass-en.png" data-srcat2x="/images/banner-compass-en@2x.png">
 	</div>
 </div>
 
 
-<div class="content-design content-design-1 clearfix" style="height: 1350px;">
-	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">The first restaurant</p>
-	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">with throughout climate-friendly meal.</p>
+<div class="content-design content-design-1 clearfix" style="height: 1650px;">
+	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">The first restaurants</p>
+	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">with a throughout climate-friendly meal.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
 		<a href="/de/p/compass-ch">Project page in German</a>
 		<p>-</p>
 		<a href="/fr/p/compass-ch">Project page in French</a>
 	</div>
+
+ {% include references.html %}
+
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>
+
 </div>

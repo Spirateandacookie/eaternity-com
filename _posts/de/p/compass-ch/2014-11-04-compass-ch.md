@@ -20,7 +20,7 @@ categories: de p
 </div>
 
 
-<div class="content-design content-design-1 clearfix" style="height: 1350px;">
+<div class="content-design content-design-1 clearfix" style="height: 2000px;">
 	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">Das erste Restaurant</p>
 	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">mit durchwegs klimafreundlichen Menu.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
@@ -28,8 +28,14 @@ categories: de p
 		<p>Die Compass Group (Schweiz) AG führt das CO2-Management soeben in ihren Restaurants ein und will so den CO2-Ausstoss bis 2020 um 20 Prozent senken.</p>
 		<p><a target="_blank" href="/assets/de/2014-05-26 Pressemitteilung-Eaternity-Compass.pdf">Pressemitteilungen Eaternity</a><br></p>
 		<p><a target="_blank" href="http://welcome.compass-group.ch/index.php?id=918&L=0%2B%2B%2F%2F%2B%3F%2F%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=750&cHash=5831b92957f370ea42c09c54fc6a647c">Pressemitteilungen Compass Group (Schweiz) AG (26. Mai 2014)</a><br></p>
-		<p><a target="_blank" href="/assets/de/14_11_14_Compass-Eaternity_II_Roll_out_MM_.pdf">Pressemitteilungen Compass Group (Schweiz) AG (14. November 2014)</a><br></p>
+		<p><a href="http://welcome.compass-group.ch/index.php?id=918&L=0%20%20%2F%20…%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=761&cHash=69501ab0ad2fc953969c93648ff69baa">Pressemitteilungen Compass Group (Schweiz) AG (14. November 2014)</a><br></p>
 	</div>
+
+	<h2 style="text-align:center; width:100%;margin-top: 67px;">11 teilnehmende Restaurants:</h2>
+	{% include references.html %}
+
+
+
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>
 </div>
