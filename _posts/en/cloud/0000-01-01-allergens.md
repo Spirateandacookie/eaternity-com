@@ -30,16 +30,17 @@ categories: cloud
 		<div class="row" style="height:100px">
 			<div class="col-md-1"></div>
 			<div class="col-md-10">
-				<p>We prepare you  for allergens compliance regulations leaving you to concentrate on your core business. 
-The new food labeling EU-regulation 1169/2011 for allergens becomes effective on 13.12.2014 and requires gastro-businesses  in all 28 EU-countries to display ingredient information relating to the fourteen main allergens. 
+				<p>We prepare you for allergens compliance regulations enabling you to concentrate on your core business.
+The new food labeling EU-regulation 1169/2011 for allergens becomes effective on 13.12.2014 and requires gastro-businesses  in all 28 EU-countries to display ingredient information relating to the fourteen main allergens.
 
-Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. by making The information you need on a daily basis is available at your fingertips. Employees have easy access to meet the information requirements of every guest and can print comprehensive and customized meal labels with minimum effort. 
+Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. by making The information you need on a daily basis is available at your fingertips. Employees have easy access to meet the information requirements of every guest and can print comprehensive and customized meal labels with minimum effort.
 
-If you haven’t got a digital recipe management storage system yet have a look at our menu-design studio or get in touch with us for more information. 
-Declaring allergens properly is just the beginning. With our cloud solution you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant o you don’t have to. 
+If you haven’t got a digital recipe management storage system yet be sure to have a look at our menu-design studio or get in touch with us for more information.
+
+Declaring allergens properly is just the beginning. With our cloud solution you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant so you don’t have to.
 </p>
 			</div>
 			<div class="col-md-1"></div>
 		</div>
 	</div>
-</div>	
+</div>

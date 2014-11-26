@@ -3,7 +3,7 @@ layout: page
 name: technology
 type: post
 title:  "Eaternity - Technology"
-categories: 
+categories:
 ---
 
 
@@ -25,11 +25,11 @@ categories:
 		</div>
 
 	</div>
-</div>	
+</div>
 
 
 <div class="hero clearfix" style="height: 449px;">
-	<p class="text text-72">Modern technology allows us to go far deeper. It provides us precendent insights into the supply chain and business processes. It helps to put convinience first on your user experience, by eliminating redundant processes in data management. Our unique solution for calculating carbon emissions and indicating the healh of meals leaps anything done before in the food industry.</p>
+	<p class="text text-72">Modern technology allows us to go far deeper. It provides us precendent insights into the supply chain and business processes. It helps to put convenience first on your user experience, by eliminating redundant processes in data management. Our unique solution for calculating carbon emissions and indicating the healh of meals leaps anything done before in the food industry.</p>
 </div>
 
 
@@ -39,13 +39,13 @@ categories:
 		<div class="row" style="height:100px">
 			<div class="col-md-1"></div>
 			<div class="col-md-10">
-		
+
 			</div>
 			<div class="col-md-1"></div>
-			
+
 		</div>
 	</div>
-</div>	
+</div>
 
 
 

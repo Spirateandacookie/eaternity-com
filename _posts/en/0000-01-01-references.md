@@ -101,7 +101,7 @@ categories:
 			<div class="container-44 clearfix">
 				<p class="text text-81">Chefcook Fabian Fuchs</p>
 				<p>„Working with Eaternity’s solution is a bliss. It is much more than a useful tool for running my kitchen."</p>
-				<p>Currently taking the restaurant Equitable to a spin. Whoever has enjoyed Fabian's fabulous cullinary creations, knows exactly why we  work together. The many times he has suprised his guest with his creative and delicious combination of ingredients made his reputation precede him essentially.</p>
+				<p>Currently taking the restaurant Equitable to a spin. Whoever has enjoyed Fabian's fabulous cullinary creations, knows exactly why we work together. The many times he has suprised his guests with his creative and delicious combination of ingredients made his reputation precede him essentially.</p>
 				<a target="_blank" href="http://equi-table.ch">Read more: www.equi-table.ch</a>
 			</div>
 		</div>
