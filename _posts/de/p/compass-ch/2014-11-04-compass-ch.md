@@ -22,7 +22,7 @@ categories: de p
 
 <div class="content-design content-design-1 clearfix" style="height: 2000px;">
 	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">Die ersten Restaurants</p>
-	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">mit durchwegs klimafreundlichen Menu.</p>
+	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">mit durchwegs klimafreundlichen Menü.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
 		<p>Die Compass Group (Schweiz) AG unternimmt schon seit Jahren grosse Anstrengungen zur Förderung einer gesunden und umweltfreundlichen Ernährung. «Der Markt verlangt verstärkt Lösungen zum Thema Nachhaltigkeit. Wir von der Compass Group wollen unsere Kunden dabei unterstützen. Der CO2-Rechner der Firma Eaternity bietet uns nun eine einmalige Chance, um auf diesem Weg ein entscheidendes Stück voranzukommen», sagt Hans Boesch, CEO.</p>
 		<p>Die Compass Group (Schweiz) AG führt das CO2-Management soeben in ihren Restaurants ein und will so den CO2-Ausstoss bis 2020 um 20 Prozent senken.</p>
