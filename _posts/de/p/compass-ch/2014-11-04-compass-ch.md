@@ -20,7 +20,7 @@ categories: de p
 </div>
 
 
-<div class="content-design content-design-1 clearfix" style="height: 2000px;">
+<div class="content-design content-design-1 clearfix" style="height: 2300px;">
 	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">Die ersten Restaurants</p>
 	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">mit durchwegs klimafreundlichen Menü.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
@@ -38,4 +38,22 @@ categories: de p
 
 	<div class="element _element" style="width: 960px;height: 742px;margin-top: 67px;background-image: url('/images/DSC08998.jpg');background-size: contain;margin-right: auto;
 margin-left: auto;background-repeat: no-repeat;background-position: center center;float: none;"></div>
+
+<div class="container">
+	<div class="row" style="margin-top:50px">
+		<div class="col-md-3"><img class="shadow" src="/images/compass-ch/BAFU2.jpg" /></div>
+		<div class="col-md-3"><img class="shadow" src="/images/compass-ch/BAFU.jpg" /></div>
+		<div class="col-md-3">
+
+			<img class="shadow" src="/images/compass-ch/Siemens.jpg" />
+
+
+		</div>
+
+
+		<div class="col-md-3"><img class="shadow" src="/images/compass-ch/BAFU3.jpg" /></div>
+	</div>
+</div>
+
+
 </div>
