@@ -1,6 +1,6 @@
 ---
 layout: page
-name: cloud-web
+name: cloud-allergens
 type: post
 title:  "Allergens"
 categories: cloud
