@@ -29,7 +29,7 @@ categories:
 
 
 <div class="hero clearfix" style="height: 449px;">
-	<p class="text text-72">Modern technology allows us to go far deeper. It provides us precendent insights into the supply chain and business processes. It helps to put convenience first on your user experience, by eliminating redundant processes in data management. Our unique solution for calculating carbon emissions and indicating the healh of meals leaps anything done before in the food industry.</p>
+	<p class="text text-72">Modern technology allows us to go far deeper. It provides us precendent insights into the supply chain and business processes. It helps to put convenience first on your user experience, by eliminating redundant processes in data management. Our unique solution for calculating carbon emissions and indicating the health of meals leaps anything done before in the food industry.</p>
 </div>
 
 
