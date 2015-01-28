@@ -10,7 +10,7 @@ categories:
 <div class="container-hero container-hero-4 clearfix" style="height:400px">
 	<div class="container-hero-content container-hero-content-4 clearfix">
       <p class="hero-title hero-title-5">Together we move the world.</p>
-      <p class="hero-subtitle hero-subtitle-5">Our clients are the best.</p>
+      <p class="hero-subtitle hero-subtitle-5">Our clients are simply the best.</p>
 	</div>
 </div>
 
