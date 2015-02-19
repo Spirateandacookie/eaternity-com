@@ -36,7 +36,7 @@ categories: fr p
 
 
 
-	<h2 style="text-align:center; width:100%;margin-top: 67px;">Les 11 restaurants participants:</h2>
+	<h2 style="text-align:center; width:100%;margin-top: 67px;">Les 20 restaurants participants:</h2>
 	{% include references.html %}
 
 
