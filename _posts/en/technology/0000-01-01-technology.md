@@ -20,9 +20,13 @@ categories:
 				<button class="_button" style="float:right;margin-left:20px;margin-top:8px;font-size:0.95em;color:#000" onClick="window.location='{{menu.url}}';">{{menu.title}}</button>
 				{% endif %}{% endfor %}
 			</div> -->
-			<div style="line-height: 1.38;clear: both;width: 960px;margin: 400px 0 0 0px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 4em;text-align: center;float: left; color: #fff">Hello, gastronomy intelligence.</div>
-			<div style="line-height: 1.38;clear: both;width: 960px;margin: 0px 0 0 0px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 2.6em;text-align: center;float: left; color: #fff">Goodbye, gastronomy management.</div>
+			<div style="line-height: 1.38;clear: both;width: 960px;margin: 340px 0 0 0px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 4em;text-align: center;float: left; color: #fff;text-shadow: 0px 0px #000000;">Hello, gastronomy intelligence.</div>
+			<div style="line-height: 1.38;clear: both;width: 960px;margin: 0px 0 0 0px;border-radius: 3px;background-color: rgba(255, 255, 255, 0);font-size: 2.6em;text-align: center;float: left; color: #fff;;text-shadow: 0px 0px #000000;">Goodbye, gastronomy management.</div>
+			<button class="_button _button-79" style="color: #fff;text-shadow: 0px 0px #000000;">We don't believe in simple solutions, but we do believe in making solutions simple.</button>
 		</div>
+		
+		 
+		
 
 	</div>
 </div>

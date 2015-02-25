@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-about
 name: references
 type: post
 title:  "Eaternity - References"
