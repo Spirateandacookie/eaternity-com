@@ -24,14 +24,14 @@ categories: de p
 	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">Die ersten Restaurants</p>
 	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none">mit durchwegs klimafreundlichen Menü.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
-		<p>Die Compass Group (Schweiz) AG unternimmt schon seit Jahren grosse Anstrengungen zur Förderung einer gesunden und umweltfreundlichen Ernährung. «Der Markt verlangt verstärkt Lösungen zum Thema Nachhaltigkeit. Wir von der Compass Group wollen unsere Kunden dabei unterstützen. Der CO2-Rechner der Firma Eaternity bietet uns nun eine einmalige Chance, um auf diesem Weg ein entscheidendes Stück voranzukommen», sagt Hans Boesch, CEO.</p>
+		<p>Die Compass Group (Schweiz) AG unternimmt schon seit Jahren grosse Anstrengungen zur Förderung einer gesunden und umweltfreundlichen Ernährung. «Der Markt verlangt verstärkt Lösungen zum Thema Nachhaltigkeit. Wir von der Compass Group wollen unsere Kunden dabei unterstützen. Der CO2-Rechner der Firma Eaternity bietet uns nun eine einmalige Chance, um auf diesem Weg ein entscheidendes Stück voranzukommen», sagt Frank Keller, CEO.</p>
 		<p>Die Compass Group (Schweiz) AG führt das CO2-Management soeben in ihren Restaurants ein und will so den CO2-Ausstoss bis 2020 um 20 Prozent senken.</p>
 		<p><a target="_blank" href="/assets/de/2014-05-26 Pressemitteilung-Eaternity-Compass.pdf">Pressemitteilungen Eaternity</a><br></p>
 		<p><a target="_blank" href="http://welcome.compass-group.ch/index.php?id=918&L=0%2B%2B%2F%2F%2B%3F%2F%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=750&cHash=5831b92957f370ea42c09c54fc6a647c">Pressemitteilungen Compass Group (Schweiz) AG (26. Mai 2014)</a><br></p>
 		<p><a href="http://welcome.compass-group.ch/index.php?id=918&L=0%20%20%2F%20…%2Fassets%2Fsnippets%2Freflect%2Fsnippet.reflect.php%3Freflect_base&tx_ttnews%5Btt_news%5D=761&cHash=69501ab0ad2fc953969c93648ff69baa">Pressemitteilungen Compass Group (Schweiz) AG (14. November 2014)</a><br></p>
 	</div>
 
-	<h2 style="text-align:center; width:100%;margin-top: 67px;">Bereits 20 teilnehmende Restaurants:</h2>
+	<h2 style="text-align:center; width:100%;margin-top: 67px;">Bereits 45 teilnehmende Restaurants:</h2>
 	{% include references.html %}
 
 

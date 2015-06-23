@@ -25,7 +25,7 @@ categories: fr p
 	<p class="text text-16" style="width: 798px;margin: 50px auto 0;float:none">Les premier restaurants</p>
 	<p class="text text-21" style="width: 798px;margin: 0px auto 0;float:none"> avec un menu continu favorable au climat.</p>
 	<div class="text text-25" style="width: 798px;margin: 10px auto 0;float:none">
-		<p>Depuis quelques années déjà, l’entreprise Compass Group (Suisse) SA fait des efforts pour promouvoir une alimentation saine et respectueuse de l’environnement. Hans Boesch, PDG du Compass Groupe (Suisse) SA, déclare à ce sujet : « Le marché a besoin de solutions écologiquement durables. Au Compass Group (Suisse) SA, nous voulons soutenir nos clients dans cette démarche. Le calculateur de CO2 de la société Eaternity offre une chance unique de faire un pas décisif dans cette direction. » </p>
+		<p>Depuis quelques années déjà, l’entreprise Compass Group (Suisse) SA fait des efforts pour promouvoir une alimentation saine et respectueuse de l’environnement. Frank Keller, PDG du Compass Groupe (Suisse) SA, déclare à ce sujet : « Le marché a besoin de solutions écologiquement durables. Au Compass Group (Suisse) SA, nous voulons soutenir nos clients dans cette démarche. Le calculateur de CO2 de la société Eaternity offre une chance unique de faire un pas décisif dans cette direction. » </p>
 		<p>Le Compass Group (Suisse) SA est en train d'introduire la gestion systématique du CO2 dans tous ses restaurants et cantines, et contribuera ainsi à baisser les émissions de CO2 de 20 % jusqu’à l’an 2020.</p>
 		<p><a target="_blank" href="/assets/de/2014-05-26 Pressemitteilung-Eaternity-Compass.pdf">Communiqué de presse Eaternity (en allemand)</a><br></p>
 		<p><a target="_blank" href="http://welcome.compass-group.ch/index.php?id=918&L=2&tx_ttnews%5Btt_news%5D=750&cHash=5831b92957f370ea42c09c54fc6a647c">Communiqué de presse Compass Group (Suisse) SA (26. Mai 2014)</a><br></p>
@@ -36,7 +36,7 @@ categories: fr p
 
 
 
-	<h2 style="text-align:center; width:100%;margin-top: 67px;">Les 20 restaurants participants:</h2>
+	<h2 style="text-align:center; width:100%;margin-top: 67px;">Les 45 restaurants participants:</h2>
 	{% include references.html %}
 
 
